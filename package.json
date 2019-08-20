@@ -1,0 +1,19 @@
+{
+  "name": "vue-press-print",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "phantomjs": "^2.1.7",
+    "wkhtmltopdf": "^0.3.4"
+  }
+}
