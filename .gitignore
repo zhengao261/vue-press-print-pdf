@@ -1,3 +1,4 @@
 node_modules
 /output/*
 page
+config copy.js

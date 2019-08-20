@@ -1,8 +1,8 @@
 export default {
     // host 
-    host: 'http://www.conardli.top',
+    host: '',
     // spider_page_url
-    page_url: 'http://www.conardli.top/docs/JavaScript/',
+    page_url: '',
     // output pdf folder name
     folder_name: 'js-code-javascript代码块',
     // content_class_name
@@ -10,7 +10,6 @@ export default {
     
     // style link address to download css
     style_link_tags: [
-        '<link rel="preload" href="http://www.conardli.top/docs/assets/css/0.styles.822cf4f6.css" as="style">',
-        '<link rel="stylesheet" href="http://www.conardli.top/docs/assets/css/0.styles.822cf4f6.css">'
+        
     ]
 }

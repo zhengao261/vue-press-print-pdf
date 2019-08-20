@@ -4,9 +4,9 @@
 
 ### Release version 1.0.1
 
-    * [Feat] 已经完成对基本内容的获取与生成pdf功能。
-    * [Feat] 对一些配置进行抽象。
-    * [Feat] 优化了一些重复获取资源的问题。
+* [Feat] 已经完成对基本内容的获取与生成pdf功能。
+* [Feat] 对一些配置进行抽象。
+* [Feat] 优化了一些重复获取资源的问题。
 
 ### config 
 
@@ -16,7 +16,7 @@
     host: '',
     
     // spider page url
-    page_url: 'http://www.conardli.top/docs/JavaScript/',
+    page_url: '',
     
     // output pdf folder name for in folder 'output'
     folder_name: 'js-code-x',
@@ -26,8 +26,7 @@
     
     // style link address to download css
     style_link_tags: [
-        '<link rel="preload" href="http://www.conardli.top/docs/assets/css/0.styles.822cf4f6.css" as="style">',
-        '<link rel="stylesheet" href="http://www.conardli.top/docs/assets/css/0.styles.822cf4f6.css">'
+        
     ]
 }
 ```
