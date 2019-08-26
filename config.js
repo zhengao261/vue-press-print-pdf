@@ -1,4 +1,4 @@
-export default {
+module.exports = {
     // host 
     host: '',
     // spider_page_url
